@@ -53,13 +53,13 @@ Example run on my computer:
     Solution for n= 6: 48
     Solution for n= 7: 216
     Solution for n= 8: 576
-    Solution for n= 9: 1392
-    Solution for n=10: 7200
-    Solution for n=11: 43200
-    Solution for n=12: 184320
-    Solution for n=13: 1065600
-    Solution for n=14: 4314240
-    Solution for n=15: 21611520
-    Solution for n=16: 150958080
+    Solution for n= 9: 1,392
+    Solution for n=10: 7,200
+    Solution for n=11: 43,200
+    Solution for n=12: 184,320
+    Solution for n=13: 1,065,600
+    Solution for n=14: 4,314,240
+    Solution for n=15: 21,611,520
+    Solution for n=16: 150,958,080
 
 ![pissoir_problem_upto_16](https://user-images.githubusercontent.com/38440557/194154040-00befbf6-a07b-48a7-ae0f-1281261900ce.png)
