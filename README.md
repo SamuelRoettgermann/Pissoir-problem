@@ -61,3 +61,5 @@ Example run on my computer:
     Solution for n=14: 4314240
     Solution for n=15: 21611520
     Solution for n=16: 150958080
+
+![pissoir_problem_upto_16](https://user-images.githubusercontent.com/38440557/194154040-00befbf6-a07b-48a7-ae0f-1281261900ce.png)
