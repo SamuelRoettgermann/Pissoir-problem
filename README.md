@@ -1,6 +1,6 @@
 # Pissoir-problem
 
-This is a very naive (and therefore slow) implementation of the pissoir problem with maximum courtesy distance as presented in
+This is a very simple (and slow) implementation of the pissoir problem with maximum courtesy distance as presented in
 the DorFuchs video "Das Pissoir-Problem" (https://www.youtube.com/watch?v=a36zHPlbd2g).
 
 Prerequisites:
