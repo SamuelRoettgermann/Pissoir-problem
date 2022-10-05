@@ -100,7 +100,7 @@ def plot_pissoir_problem(n: int, print_progress=False):
         ys = [pissoir_problem(n) for n in ns]
 
     for n, y in enumerate(ys):
-        print(f"Solution for {n=:2}: {y}")
+        print(f"Solution for {n=:2}: {y:,}")
 
     plt.plot(ns, ys)
     plt.show()
